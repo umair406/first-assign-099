@@ -1,0 +1,38 @@
+.cl{
+    background-image: linear-gradient(to bottom right, #f36b1f, #fca20e);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+}
+.pop{
+    margin-top: -50px;
+}
+
+.pj{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3,p{
+    text-align: center;
+}
+
+.ads{
+    border-radius: 5px;
+    filter: drop-shadow(2px 2px 2px grey);
+}
+.ef:hover{
+    transform: scale(1.1);
+    transition-duration: 0.2s;
+}
+.search{
+    width: 600px;
+    border-radius: 3px;
+}
